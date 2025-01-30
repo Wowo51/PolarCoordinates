@@ -2,8 +2,7 @@
 
 A pure C# library for working with polar coordinates. No external dependencies except for Microsoft's unit testing, built for .NET 9.0.
 
-This code is free for non-commercial use. A commercial use license is $5 Canadian.</br>
-Make a purchase [here.](https://TranscendAI.tech/paylanding.html)</br>
+This code is free to use under the MIT.
 
 ## What Are Polar Coordinates?
 Polar coordinates provide a way to represent points in a plane using a distance from a reference point (the radius) and an angle from a reference direction (theta). Unlike Cartesian coordinates (x, y), which define a point by horizontal and vertical displacement, polar coordinates define a point as:
@@ -128,6 +127,9 @@ This library provides robust mathematical operations for handling polar coordina
 
 ![AI Image](aiimage.jpg)
 </br>
+Hire me and my Raven code generation system to generate your C# code. Fast, cost effective, thoroughly unit tested.<br>
+[TranscendAI.tech](https://TranscendAI.tech)<br>
+<br>
 Copyright [TranscendAI.tech](https://TranscendAI.tech) 2025.</br>
 Authored by Warren Harding. AI assisted.</br>
 
