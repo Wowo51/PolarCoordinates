@@ -1,6 +1,6 @@
 # Polar Coordinates Library
 
-A pure C# library for working with polar coordinates. No external dependencies, built for .NET 9.0.
+A pure C# library for working with polar coordinates. No external dependencies except for Microsoft's unit testing, built for .NET 9.0.
 
 This code is free for non-commercial use. A commercial use license is $5 Canadian.</br>
 Make a purchase [here.](https://TranscendAI.tech/paylanding.html)</br>
